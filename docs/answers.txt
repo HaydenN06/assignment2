@@ -1,0 +1,48 @@
+Git Lab Tutorials completed on 10-13-22.
+GitHub Account made on 09-13-22.
+
+1:
+$ git push -u https://github.com/HaydenN06/assignment2.git
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 6 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 760 bytes | 760.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/HaydenN06/assignment2.git
+   f4975e5..e064218  master -> master
+branch 'master' set up to track 'https://github.com/HaydenN06/assignment2.git/master'.
+
+2:
+The command git shortlog revealed that 9 commits were made.
+
+3:
+I used git log: Fri Oct 14 14:40:35 2022
+
+4:
+It keeps the main/origin branch clean of any errors that may occur.
+It also allows a team to work on seperate features that can be pushed later.
+
+5:
+The git log command allows the user to see the history of changes in the project.
+The git status command tells the user if the branch is up-to-date and if you have made any commits that have not been pushed.
+
+6:
+git log Vehicle.h
+
+7:
+git log --grep=file
+
+8:
+Inheritance is when an object or class inherits the attributes of another object or class.
+Polymorphism is when a feature can do different things depending on data type or class.
+Encapsulation is wraps data, along with methods, under a single unit.
+
+9:
+In the Dictator and Lieutenants Workflow, only the director can push to the repository.
+In the the Integration Manager Workflow, each developer can push changes to repository.
+
+10:
+If a group of 100 developers used the Dictator and Lieutenants Workflow,
+they would benefit since the Dictator can stop any conflicts and can decide when to push changes.
